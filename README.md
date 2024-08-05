@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Yash Dhakate</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <hr>
-
+<p style="margin:"10";">
 <img align="left" style="margin-right:30px; border-radius:40" src="./profile.gif" height="250">
-
+</p>
 
 - 🔭 I’m currently working on **Multi-Person CodeEditor**
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-git-hubb&show_icons=true&locale=en&layout=compact" alt="yash-git-hubb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-git-hubb&show_icons=true&locale=en" alt="yash-git-hubb" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-git-hubb&" alt="yash-git-hubb" /></p>
